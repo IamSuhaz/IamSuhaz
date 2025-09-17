@@ -51,6 +51,9 @@
 * [Tableau Desktop Specialist](https://www.credly.com/badges/b3deb55e-800f-4b06-baae-0615436042a0/public_url)
 * [AWS Certified Cloud Practitioner](https://www.credly.com/badges/e1a70a2c-5b92-4be3-805c-60061b0bed2f?source=linked_in_profile)
 
+## 📊 GitHub Metrics
+
+![Metrics](./github-metrics.svg)
 
 📫 **How to reach me**: suhas@saal.ai
 
